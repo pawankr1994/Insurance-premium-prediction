@@ -5,8 +5,8 @@ import json
 client = pymongo.MongoClient("mongodb://localhost:27017/neurolabDB")
 
 DATA_FILE_PATH="/config/workspace/insurance.csv"
-DATABASE_NAME="Insurance_Premium"
-COLLECTION_NAME="insurance"
+DATABASE_NAME="Insurance"
+COLLECTION_NAME="insurance_data"
 
 if __name__=="__main__":
     df = pd.read_csv(DATA_FILE_PATH)

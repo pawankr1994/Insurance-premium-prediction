@@ -7,6 +7,7 @@ Insurance/predictor.py
 Insurance/utils.py
 Insurance/components/__init__.py
 Insurance/entity/__init__.py
+Insurance/exception/__init__.py
 Insurance/logger/__init__.py
 Insurance/pipeline/__init__.py
 insurance.egg-info/PKG-INFO
