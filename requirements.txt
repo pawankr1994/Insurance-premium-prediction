@@ -15,4 +15,5 @@ PyYAML
 numpy
 scikit-learn
 apache-airflow
+dotenv-1.0.0
 -e .

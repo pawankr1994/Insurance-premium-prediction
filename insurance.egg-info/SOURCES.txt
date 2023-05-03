@@ -2,10 +2,12 @@ README.md
 setup.py
 Insurance/__init__.py
 Insurance/config.py
-Insurance/exception.py
 Insurance/predictor.py
 Insurance/utils.py
 Insurance/components/__init__.py
+Insurance/components/data_ingestion.py
+Insurance/components/data_transformation.py
+Insurance/components/data_validation.py
 Insurance/entity/__init__.py
 Insurance/exception/__init__.py
 Insurance/logger/__init__.py
